@@ -1,3 +1,7 @@
+#PASCAL_VOC DATASET
+my_pascal_voc/
+#Tensorboard
+tensorboard/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
